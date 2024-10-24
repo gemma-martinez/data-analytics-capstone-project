@@ -1,0 +1,8 @@
+Sector,unit,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+Energy,MtCO2e,20790.42,20933.02,20861.52,20980.54,21088.49,21677.02,22143.95,22541.85,22707.25,22839.94,23558.81,23890.57,24207.65,25273.42,26433.31,27407.97,28256.89,29289.88,29489.01,29062.65,30841.05,31730.59,32076.00,32677.11,32762.00,32625.81,32662.89,33183.46,33994.02,33860.53,31933.79
+Industrial Processes,MtCO2e,493.63,507.47,528.52,551.29,588.41,622.18,635.03,660.77,658.30,690.48,721.46,753.87,781.86,860.00,898.54,963.85,1051.28,1129.12,1143.29,1175.40,1254.83,1349.13,1384.08,1442.79,1499.37,1444.37,1482.76,1504.38,1566.53,1616.72,1632.64
+Agriculture,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Waste,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Land-Use Change and Forestry,MtCO2e,1770.16,1770.16,1770.16,1770.60,1770.27,1775.87,1636.16,2326.00,1770.01,1673.68,1621.54,1344.16,1717.42,1445.67,1718.35,1512.82,1806.75,1379.66,1369.50,1672.06,1382.22,306.49,316.57,298.85,563.23,586.91,1181.89,1148.27,1294.93,1471.73,1172.69
+Data source,Climate Watch
+Data for,Location: World. Sectors/Subsectors: Total including LUCF. Gases: CO2. Calculation: Total. Show data by Sectors
