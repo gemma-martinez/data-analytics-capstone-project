@@ -1,4 +1,4 @@
-# Data Analytics Bootcamp @ neuefishce GmbH - Capstone Project
+# Data Analytics Bootcamp @ neuefische GmbH - Capstone Project
 
 A collaborative project focused on analyzing the **Impact of Renewable Energy on Emissions Reduction**, uncovering trends and insights.
 
