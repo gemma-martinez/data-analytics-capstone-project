@@ -4,7 +4,7 @@ A collaborative project focused on analyzing the **Impact of Renewable Energy on
 
 ## 🔍 Project Overview 
 
-This capstone project was completed as part of the **Data Analytics Bootcamp** @ neuefische GmbH. The project has been developed in 4 weeks in June 2024 by Steve, Trina and me. 
+This capstone project was completed as part of the **Data Analytics Bootcamp** @ neuefische GmbH. The project has been developed in 4 weeks in June 2024 by [Steve](https://github.com/Goal1803), [Trina](https://github.com/trinakohestani) and me. 
 
 The main objectives of the project were:
 
@@ -124,6 +124,8 @@ However, with the aim of improving our model, two other variables were included 
 
 - R-Squared = **0.711**
 - F-Statistic = **2283**
+
+  
 
 meaning that **71.1 % of the variability** in CO2 emissions per capita can be explained by the four independent variables: GDP per capita, renewable energy consumption, industry share and energy intensity, being significant to explain crbon footprint levels.
 
