@@ -25,7 +25,6 @@ The main objectives of the project were:
 
 - `data/`: Contains the dataset used for analysis 
 - `notebooks/`: Jupyter Notebooks containing data cleaning, analysis, and visualizations. One notebook per hypothesis presented. 
-- `images/`: Screenshots or visualizations used in the project.
 - `presentation/`: Final presentation used for the graudation event 
 - `README.md`: Project documentation and instructions.
 
