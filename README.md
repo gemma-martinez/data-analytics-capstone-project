@@ -63,6 +63,11 @@ Those two are the most popular renewable energy sources due to their availabilit
 
 Therefore, we accept the first hypothesis: Solar and wind energy are the fastest-growing types of renewable energy ✅
 
+When taking a closer look at the 15 countries with the lowest carbon intensity, we observed that the share of hydropower energy is significanty higher than other sources.
+
+<img width="870" alt="Screenshot 2024-10-24 at 15 59 46" src="https://github.com/user-attachments/assets/52693c91-ef3e-4ebf-b015-a7567552ed44">
+
+
 ### Hypothesis 2
 
 **Higher share of renewable energy generation is associated with lower carbon intensity levels, indicating a cleaner energy production**
@@ -130,3 +135,10 @@ However, with the aim of improving our model, two other variables were included 
 meaning that **71.1 % of the variability** in CO2 emissions per capita can be explained by the four independent variables: GDP per capita, renewable energy consumption, industry share and energy intensity, being significant to explain crbon footprint levels.
 
 Therefore, we can also accept the third hypothesis: Carbon footprint is determined by the level of economic development and the share of renewable energy consumption ✅
+
+### Key take aways and recommendations
+
+- Countries with **favorable weather conditions** should focus on solar and wind energy as their top choices​
+- Countries with **water abundance** should focus on hydropower in their renewable energy mix
+- It is advisable to prioritize other types of renewable energy sources and **diversify** their energy portfolio to prevent over-reliance on weather-dependent sources​
+- Incentivize renewable energy sources and adopt measures to **improve energy efficiency** and diversify economies with a high industrial share
