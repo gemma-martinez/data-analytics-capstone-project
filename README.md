@@ -2,7 +2,7 @@
 
 A collaborative project focused on analyzing the **Impact of Renewable Energy on Emissions Reduction**, uncovering trends and insights.
 
-## Project Overview 🔍
+## 🔍 Project Overview 
 
 This capstone project was completed as part of the **Data Analytics Bootcamp** @ neuefische GmbH. The project has been developed in 4 weeks in June 2024 by Steve, Trina and me. 
 
@@ -13,7 +13,7 @@ The main objectives of the project were:
 - Complete a data technical analysis 
 - Present findings in a final presentation
 
-## Technologies used 💻
+## 💻 Technologies used 
 
 - Jupyter Notebooks
 - Python (pandas, matplotlib, seaborn)
@@ -21,7 +21,7 @@ The main objectives of the project were:
 - Tableau
 - GitHub
 
-## Project structure 📁
+## 📁 Project structure 
 
 - `data/`: Contains the dataset used for analysis 
 - `notebooks/`: Jupyter Notebooks containing data cleaning, analysis, and visualizations. One notebook per hypothesis presented. 
