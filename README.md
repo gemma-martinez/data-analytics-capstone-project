@@ -46,7 +46,7 @@ Which led us to define our research question: *'What are the trends in renewable
 2. Higher share of renewable energy generation is associated with lower carbon intensity levels, indicating a cleaner energy production
 3. Carbon footprint is determined by the level of economic development and the share of renewable energy consumption
 
-### Hypothesis 1
+<details> <summary>Hypothesis 1</summary>
 
 **Solar and wind energy are the fastest-growing types of renewable energy**
 
@@ -66,8 +66,9 @@ When taking a closer look at the 15 countries with the lowest carbon intensity, 
 
 <img width="870" alt="Screenshot 2024-10-24 at 15 59 46" src="https://github.com/user-attachments/assets/52693c91-ef3e-4ebf-b015-a7567552ed44">
 
+</details>
 
-### Hypothesis 2
+<details> <summary>Hypothesis 2</summary>
 
 **Higher share of renewable energy generation is associated with lower carbon intensity levels, indicating a cleaner energy production**
 
@@ -91,7 +92,9 @@ therefore, we can confirm that:
 
 The second hypothesis is also accepted: Higher share of renewable energy generation is associated with lower carbon intensity levels, indicating a cleaner energy production ✅
 
-### Hypothesis 3
+</details>
+
+<details> <summary>Hypothesis 3</summary>
 
 **Carbon footprint is determined by the level of economic development and the share of renewable energy consumption**
 
@@ -135,7 +138,9 @@ meaning that **71.1 % of the variability** in CO2 emissions per capita can be ex
 
 Therefore, we can also accept the third hypothesis: Carbon footprint is determined by the level of economic development and the share of renewable energy consumption ✅
 
-### Key take aways and recommendations
+</details>
+
+<details> <summary>Key takeaways and recommendations</summary>
 
 - Countries with **favorable weather conditions** should focus on solar and wind energy as their top choices​
 - Countries with **water abundance** should focus on hydropower in their renewable energy mix
